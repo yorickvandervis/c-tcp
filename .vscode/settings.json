@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "vector": "c",
+        "unistd.h": "c",
+        "inet.h": "c",
+        "in.h": "c",
+        "stdint-uintn.h": "c",
+        "features.h": "c"
+    }
+}
